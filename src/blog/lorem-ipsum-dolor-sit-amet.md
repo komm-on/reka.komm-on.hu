@@ -4,10 +4,9 @@ layout: article
 date: 2024-11-23
 title: Lorem ipsum dolor sit amet
 teaser: >
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum
-  fringilla, est pretium imperdiet gravida, mi neque lacinia nibh, vitae
-  interdum est ex eget elit.
-cover: /assets/images/placeholder.png
+  Ez egy bevezető szöveg.
+cover: /assets/images/kép12.jpg
+
 ---
 
 Praesent nisi tellus, sollicitudin vel ipsum a, auctor fringilla tortor.
